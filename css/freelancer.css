@@ -56,22 +56,22 @@ hr.star-light {
   border-color: white;
 }
 hr.star-light:after {
-  background-color: #4286f4;
+  background-color: #e09a58;
   color: white;
 }
 hr.star-primary {
-  border-color: #4C3B4D;
+  border-color: #589ee0;
 }
 hr.star-primary:after {
   background-color: white;
-  color: #4C3B4D;
+  color: #589ee0;
 }
 .img-centered {
   margin: 0 auto;
 }
 header {
   text-align: center;
-  background: #4286f4;
+  background: #e09a58;
   color: white;
 }
 header .container {
@@ -128,7 +128,7 @@ header .intro-text .skills {
   color: white;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: #4286f4;
+  color: #e09a58;
 }
 .navbar-custom .navbar-nav li a:focus,
 .navbar-custom .navbar-nav li a:active {
@@ -136,13 +136,13 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li.active a {
   color: white;
-  background: #4286f4;
+  background: #e09a58;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color: white;
-  background: #4286f4;
+  background: #e09a58;
 }
 .navbar-custom .navbar-toggle {
   color: white;
@@ -152,9 +152,9 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #4286f4;
+  background-color: #e09a58;
   color: white;
-  border-color: #4286f4;
+  border-color: #e09a58;
 }
 @media (min-width: 768px) {
   .navbar-custom {
@@ -184,7 +184,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #4286f4;
+  background: #e09a58;
   color: white;
 }
 @media (max-width: 767px) {
@@ -287,7 +287,7 @@ section.success {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #4286f4;
+  color: #e09a58;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
@@ -307,7 +307,7 @@ footer .footer-col {
 }
 footer .footer-below {
   padding: 25px 0;
-  background-color: #4286f4;
+  background-color: #e09a58;
 }
 .btn-outline {
   color: white;
@@ -321,14 +321,14 @@ footer .footer-below {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-  color: #4286f4;
+  color: #e09a58;
   background: white;
   border: solid 2px white;
 }
 .btn-primary {
   color: white;
-  background-color: #4C3B4D;
-  border-color: #4C3B4D;
+  background-color: #589ee0;
+  border-color: #589ee0;
   font-weight: 700;
 }
 .btn-primary:hover,
@@ -360,17 +360,17 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #4C3B4D;
-  border-color: #4C3B4D;
+  background-color: #589ee0;
+  border-color: #589ee0;
 }
 .btn-primary .badge {
-  color: #4C3B4D;
+  color: #589ee0;
   background-color: white;
 }
 .btn-success {
   color: white;
-  background-color: #4286f4;
-  border-color: #4286f4;
+  background-color: #e09a58;
+  border-color: #e09a58;
   font-weight: 700;
 }
 .btn-success:hover,
@@ -402,11 +402,11 @@ fieldset[disabled] .btn-success:active,
 .btn-success.disabled.active,
 .btn-success[disabled].active,
 fieldset[disabled] .btn-success.active {
-  background-color: #4286f4;
-  border-color: #4286f4;
+  background-color: #e09a58;
+  border-color: #e09a58;
 }
 .btn-success .badge {
-  color: #4286f4;
+  color: #e09a58;
   background-color: white;
 }
 .btn-social {
@@ -470,7 +470,7 @@ fieldset[disabled] .btn-success.active {
   height: 75px;
   width: 1px;
   margin-left: 35px;
-  background-color: #4C3B4D;
+  background-color: #589ee0;
   transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   /* IE 9 */
@@ -481,7 +481,7 @@ fieldset[disabled] .btn-success.active {
 .portfolio-modal .close-modal .lr .rl {
   height: 75px;
   width: 1px;
-  background-color: #4C3B4D;
+  background-color: #589ee0;
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   /* IE 9 */
@@ -510,7 +510,7 @@ fieldset[disabled] .btn-success.active {
   position: absolute;
   left: 0px;
   top: 0px;
-  background: #4286f4;
+  background: #e09a58;
   outline: 0;
   transition: top 0.1s ease-in, background 0.5s linear;
 }
