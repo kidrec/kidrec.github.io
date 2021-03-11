@@ -61,11 +61,11 @@ hr.star-light:after {
   color: white;
 }
 hr.star-primary {
-  border-color: #589ee0;
+  border-color: #7657ca;
 }
 hr.star-primary:after {
   background-color: white;
-  color: #589ee0;
+  color: #7657ca;
 }
 .img-centered {
   margin: 0 auto;
@@ -107,7 +107,7 @@ header .intro-text .skills {
   }
 }
 .navbar-custom {
-  background: #316ac6;
+  background: #7657ca;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -301,7 +301,7 @@ footer h3 {
 }
 footer .footer-above {
   padding-top: 50px;
-  background-color: #316ac6;
+  background-color: #7657ca;
 }
 footer .footer-col {
   margin-bottom: 50px;
@@ -328,8 +328,8 @@ footer .footer-below {
 }
 .btn-primary {
   color: white;
-  background-color: #589ee0;
-  border-color: #589ee0;
+  background-color: #7657ca;
+  border-color: #7657ca;
   font-weight: 700;
 }
 .btn-primary:hover,
@@ -361,11 +361,11 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #589ee0;
-  border-color: #589ee0;
+  background-color: #7657ca;
+  border-color: #7657ca;
 }
 .btn-primary .badge {
-  color: #589ee0;
+  color: #7657ca;
   background-color: white;
 }
 .btn-success {
@@ -471,7 +471,7 @@ fieldset[disabled] .btn-success.active {
   height: 75px;
   width: 1px;
   margin-left: 35px;
-  background-color: #589ee0;
+  background-color: #7657ca;
   transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   /* IE 9 */
@@ -482,7 +482,7 @@ fieldset[disabled] .btn-success.active {
 .portfolio-modal .close-modal .lr .rl {
   height: 75px;
   width: 1px;
-  background-color: #589ee0;
+  background-color: #7657ca;
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   /* IE 9 */
